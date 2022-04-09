@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.main{
+    background-color:#ffffff;
+    width: 100%;
+    height: 100px;
+}
+.fixed{
+
+     display: flex;
+     margin-left: 140px;
+     margin-top: 10px;
+     padding-top: 20px;
+
+     
+}
+.one{
+    flex: 1;
+    padding-top: 30px;
+    margin-left: 43px;
+    cursor: pointer;
+}
+.one ul{
+    display: inline-block;
+    list-style-type: none;
+
+
+}
+.one ul li{
+    display:inline-block;
+    margin-right: 20px ;
+}
+.two{
+    margin-right: 177px;
+
+padding-top: 9px;
+}
+.left{
+    margin-left: 264px;
+    margin-top: 31px;
+}
+.right{
+    background-color:#1e3932;
+     margin-top: 31px;
+     width: 720px;
+     height:210px;
+
+}
+.section{
+    display: flex;
+    margin-left: -28px;
+}
+
+.five{
+    background-color:#1e3932;
+    width: 720px;
+    margin-top: 31px;
+    height: 210px;
+}
+.output{
+    margin-left: 10px;
+    position: relative;
+    padding-top: 40px;
+    text-align: center;
+
+}
+
+.five button{
+    margin-top: 80px;
+
+}
+.moresec{
+    display: flex;
+    margin-left: -28px;
+}
+.level{
+    background-color:#d4e9e2 ;
+    margin-left: 234px;
+    position: relative;
+    padding-top: 206px;
+    text-align: center;
+     margin-top: 10px;
+     width: 720px;
+     height:625px
+}
+.moresec button{
+    margin-top: 80px;
+
+}
+
+.up{
+    display: flex;
+    margin-left: 954px;
+margin-top: -624px;
+
+}
+.time{
+    margin-left: 229px;
+    padding-top: 25px;
+}
+.three{
+    background-color:#1e3932 ;
+    width: 704px;
+    height: 309.7px;
+    margin-top: -4px;
+    margin-left: 231px;
+}
+.min{
+    margin-left: 10px;
+    position: relative;
+    padding-top: 93px;
+    text-align: center;
+}
+.ten{
+    background-color:#1e3932;
+    width: 706px;
+    margin-top: 31px;
+    height: 309px;
+    margin-left: 735px;
+    margin-top: -267px;
+}
+.bin{
+    
+    position: relative;
+    padding-top: 107px;
+    text-align: center;
+}
+.ten button{
+    margin-top: 7px;
+}  
+.thick{
+    margin-left: 230px;
+    margin-top: 24px;
+}
+.containlaster{
+    background-color: #1e3932;
+width: 720px;
+height: 424px;
+position: relative;
+margin-left: 950px;
+margin-top: -428px;
+text-align: center;
+padding-top: 144px;
+
+}
+.use{
+    background-color: #d4e9e2;
+    width: 720px;
+    height: 420px;
+    margin-top: -4px;
+    margin-left: 231px;
+}
+.on{
+    margin-top: 30px;
+text-align: center;
+padding-top: 114px;
+}
+.media{
+    display: flex;
+    margin-left: 721px;
+    margin-top:-345px;
+}
+.care{
+    background-color: white;
+    width: 100%;
+    height: 30px;
+}
+.series{
+    margin-left: 621px;
+    margin-top: 61px;
+}
+
+
+
+
